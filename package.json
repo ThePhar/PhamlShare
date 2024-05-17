@@ -1,0 +1,12 @@
+{
+  "name": "archipelago.js",
+  "version": "2.0.0_dev",
+  "description": "A client library for communicating with Archipelago servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
